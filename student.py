@@ -3,3 +3,9 @@ def addStudent():
 
 def showAllStudents():
     pass
+
+def updateStudent():
+    pass
+
+def removeStudent():
+    pass
