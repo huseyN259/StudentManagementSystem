@@ -43,7 +43,20 @@ def addStudent():
         print("Student data error:", e)
 
 def showAllStudents():
-    pass
+    students = loadStudents()
+
+    if not students:
+        print("No students found!")
+        return
+
+    for s in students:
+        print(f"""
+        ID: {s["id"]}
+        Name: {s["name"]}
+        Surname: {s["surname"]}
+        Age: {s["age"]}
+        Grades: {s["grades"]}
+        """)
 
 def updateStudent():
     pass
