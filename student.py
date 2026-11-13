@@ -10,5 +10,5 @@ def updateStudent():
 def removeStudent():
     pass
 
-def testFunction():
+def searchStudent():
     pass
