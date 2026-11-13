@@ -9,3 +9,6 @@ def updateStudent():
 
 def removeStudent():
     pass
+
+def testFunction():
+    pass
