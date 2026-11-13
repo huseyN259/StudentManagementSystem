@@ -22,17 +22,6 @@ A simple and modular **Student Management System** developed using Python and JS
 - Exception Handling
 - Python Modules
 
-## 📁 Project Structure
-
-```text
-StudentManagementSystem/
-│
-├── main.py
-├── functions.py
-├── students.json
-└── README.md
-```
-
 ## ⚙️ Installation & Usage
 
 1. Clone the repository:
